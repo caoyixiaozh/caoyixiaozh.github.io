@@ -3,9 +3,12 @@ layout: home
 title: Yixiao (Carl) Cao
 ---
 
-# Welcome to My GitHub Pages Site!
+# Welcome to My Website! :wave:
+I'm based in Cambridge, MA.
 
-This is the home page of my GitHub Pages site. Feel free to explore and check out my projects.
+I was born and raised in Nanjing, China. I graduated from Nanjing Foreign Language School in 2018, and I was an exchange student to Bishop Mcdevitt High School (which does not exist anymore :cry: ) in Wyncote, PA for 11th grade.
+
+I'm a proud alum of [Vassar College](https://www.vassar.edu/) with a B.A degree in Economics and Mathematics & Statistics. (May 2022 🎓)
 
 ## Contact
 
