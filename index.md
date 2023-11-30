@@ -39,3 +39,5 @@ I've been in the college debating circuit since 2018. I have done BP for 4 years
 - Vice President, Vassar Debate Society (2019 - 2020)
 - BP Intervarsity Tournaments: Oxford IV, Yale IV, Cornell Tournament of Love, Brandeis IV, HWS IV, Hart House IV, Bard IV
   
+## Contact
+Connect with me on [LinkedIn](https://www.linkedin.com/in/yixiao-cao-441ab9160/) to stay updated on my professional journey.
