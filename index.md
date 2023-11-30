@@ -3,6 +3,9 @@ layout: default
 title: Yixiao (Carl) Cao
 ---
 
+![Profile Image](./images/IMG_9609.JPG)
+
+
 # Welcome to My Website! 👋
 I'm based in Cambridge, MA.
 
@@ -13,7 +16,7 @@ I'm a proud alum of [Vassar College](https://www.vassar.edu/) with a B.A degree 
 I'm pursuing a Master in Finance degree at Massachusetts Institute of Technology 🦫, with a concentration in financial engineering.
 
 ## Projects & Papers
-As a typical liberal arts student, my academic interests span widely across fields. I've studied (mostly introductory level) philosophy, sociology, political science, cognitive science, computer science, and English. 
+As a typical liberal arts student, my academic interests span widely across fields. I've studied (mostly introductory level) philosophy, sociology, political science, cognitive science, computer science, music, and English. 
 
 However, due to limited supply of time ⏰ and excessive demand of sleep 
 😴 and leisure 🏖️, I've decided to focus on the intersection of statistics, economics, and finance. 
@@ -27,7 +30,7 @@ Below is a list of my relevant projects.
 - [Ford Scholarship](https://www.vassar.edu/ford-scholars) (2020), [Redistribution or Illusion? –A closer look at Ecuador’s Economic Policies during Correa’s Citizen Revolution](https://pages.vassar.edu/fordscholars/author/ycao/): mainly involves the replication and calibration of a dynamic stochastic general equilibrium (DSGE) model  
 
 ## Competitive Debate and Speech
-I've been in the college debating circuit since 2018. I have done BP for 4 years and APDA for 2 years. Below is a non-exhaustive list of my debate experience:
+I've been in the college debating circuit since 2018. I have done BP for 4 years and APDA for 2 years. Below is a non-exhaustive list of my debating, judging, and debate organization experience:
 - Member, MIT Debate Society (2022 - )
 - Harvard APDA 2023: Barvardheimer
 - Wellesley APDA: CROSSWORDS
