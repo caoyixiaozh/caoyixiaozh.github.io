@@ -3,9 +3,6 @@ layout: default
 title: Yixiao (Carl) Cao
 ---
 
-![Profile Image](./images/IMG_9609.JPG)
-
-
 # Welcome to My Website! 👋
 I'm based in Cambridge, MA.
 
